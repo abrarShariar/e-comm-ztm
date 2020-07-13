@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import DirectoryMenu from '../../components/directory-menu/directory-menu.component';
 
+import './homepage.styles.scss';
+
 class HomePage extends Component {
     constructor (props) {
         super(props);
